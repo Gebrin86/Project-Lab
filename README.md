@@ -46,7 +46,7 @@ Used smartphone to ping drone IP to confirm visibility on the local network.
 ![MAVProxy Terminal](https://github.com/Gebrin86/Project-Lab/blob/cf40cedeaaec328fe63033e696605c41d3df3662/Screenshot%202025-07-28%20174105.png)
 
 ### Mission Planner Connected  
-![Mission Planner](images/mission_planner_connected.png)
+![Mission Planner](https://github.com/Gebrin86/Project-Lab/blob/d264602e0fc0a0547cc12f0c964d069ce96d2a54/Screenshot%202025-07-28%20174346.png)
 
 ### Wireshark MAVLink Packets During Arming  
 ![Wireshark Arming](images/wireshark_arm_highlight.png)
