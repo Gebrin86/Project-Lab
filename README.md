@@ -49,7 +49,7 @@ Used smartphone to ping drone IP to confirm visibility on the local network.
 ![Mission Planner](https://github.com/Gebrin86/Project-Lab/blob/d264602e0fc0a0547cc12f0c964d069ce96d2a54/Screenshot%202025-07-28%20174346.png)
 
 ### Wireshark MAVLink Packets During Arming  
-![Wireshark Arming](images/wireshark_arm_highlight.png)
+![Wireshark Arming](https://github.com/Gebrin86/Project-Lab/blob/ac634dc59b925555e91b372c4505d22084628eb2/Screenshot%202025-07-28%20182707.png)
 
 ### Phone Ping to Drone  
 ![Phone Ping](images/phone_ping_to_drone.png)
