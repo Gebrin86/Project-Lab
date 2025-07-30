@@ -43,7 +43,7 @@ Used smartphone to ping drone IP to confirm visibility on the local network.
 ## 📸 Screenshots
 
 ### MAVProxy Terminal Connection  
-![MAVProxy Terminal](images/cmd_mavproxy_connection.png)
+![MAVProxy Terminal](https://github.com/Gebrin86/Project-Lab/blob/cf40cedeaaec328fe63033e696605c41d3df3662/Screenshot%202025-07-28%20174105.png)
 
 ### Mission Planner Connected  
 ![Mission Planner](images/mission_planner_connected.png)
