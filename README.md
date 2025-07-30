@@ -29,7 +29,7 @@ Configured Mission Planner for UDP communication.
 
 2. Connecting to the Drone  
 Ran MAVProxy with:  
-mavproxy.py --master=com3 --baudrate=57600 --out=udp:192.168.4.25:14550 --console
+mavproxy.py --master=com3 --baudrate=57600 --out=udp:192.168.4.27:14550 --console
 
 3. Capturing Network Traffic  
 Started Wireshark on the host machine.  
@@ -37,7 +37,7 @@ Interacted with the drone via Mission Planner and monitored MAVLink traffic.
 
 4. Identifying IP Addresses  
 Drone: 192.168.4.20  
-Host PC: 192.168.4.25  
+Host PC: 192.168.4.27  
 Used smartphone to ping drone IP to confirm visibility on the local network.
 
 ## 📸 Screenshots
@@ -52,7 +52,7 @@ Used smartphone to ping drone IP to confirm visibility on the local network.
 ![Wireshark Arming](https://github.com/Gebrin86/Project-Lab/blob/ac634dc59b925555e91b372c4505d22084628eb2/Screenshot%202025-07-28%20182707.png)
 
 ### Phone Ping to Drone  
-![Phone Ping](images/phone_ping_to_drone.png)
+![Phone Ping](https://github.com/Gebrin86/Project-Lab/blob/6c7d8a14a5d5ca251c73eef1088ba9b63b36f672/IMG_3469.png)
 
 ## 🔍 Observations & Takeaways
 
@@ -71,5 +71,4 @@ Used smartphone to ping drone IP to confirm visibility on the local network.
 ## ⚠️ Ethical Disclaimer
 
 **This project was conducted in a fully controlled lab environment.**  
-All devices were owned by the researcher. No unauthorized systems were accessed.  
 The goal is purely educational: demonstrating ethical reconnaissance and packet analysis.
