@@ -2,7 +2,7 @@
 
 This project demonstrates how to analyze and interpret drone communications using open-source tools in a controlled environment. Using Python, MAVProxy, and Wireshark, I established a connection between my computer and a drone via Mission Planner and performed packet-level reconnaissance on MAVLink traffic.
 
-## 🧠 Key Concepts Demonstrated
+##Key Concepts Demonstrated
 
 - Network Protocol Analysis – Observing UDP traffic between devices (drone and GCS).
 - Packet Capture with Wireshark – Analyzing MAVLink messages and device behavior.
@@ -11,7 +11,7 @@ This project demonstrates how to analyze and interpret drone communications usin
 - Python Network Interaction – Setting up and launching MAVProxy.
 - Ethical Reconnaissance – Conducted in a safe, isolated network lab.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python – For installing and running MAVProxy.
 - Command Prompt – Command-line interface to interact with tools.
@@ -20,7 +20,7 @@ This project demonstrates how to analyze and interpret drone communications usin
 - Wireshark – Network sniffer for capturing and analyzing packets.
 - Smartphone – Used as a secondary network device to generate activity and perform pings.
 
-## 📋 Project Workflow
+## Project Workflow
 
 1. Environment Setup  
 Installed Python and MAVProxy using:  
@@ -40,7 +40,7 @@ Drone: 192.168.4.20
 Host PC: 192.168.4.27  
 Used smartphone to ping drone IP to confirm visibility on the local network.
 
-## 📸 Screenshots
+## Screenshots
 
 ### MAVProxy Terminal Connection  
 ![MAVProxy Terminal](https://github.com/Gebrin86/Project-Lab/blob/cf40cedeaaec328fe63033e696605c41d3df3662/Screenshot%202025-07-28%20174105.png)
@@ -54,14 +54,14 @@ Used smartphone to ping drone IP to confirm visibility on the local network.
 ### Phone Ping to Drone  
 ![Phone Ping](https://github.com/Gebrin86/Project-Lab/blob/6c7d8a14a5d5ca251c73eef1088ba9b63b36f672/IMG_3469.png)
 
-## 🔍 Observations & Takeaways
+## Observations & Takeaways
 
 - Successfully captured MAVLink UDP packets.
 - Identified how the drone and GCS communicate over the local network.
 - Highlighted activity during critical drone actions (arming).
 - Reinforced skills in packet analysis and ethical reconnaissance.
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Analyze MAVLink packet contents for telemetry and control commands.
 - Write Python scripts to parse MAVLink data from .pcap files.
